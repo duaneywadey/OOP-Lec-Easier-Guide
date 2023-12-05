@@ -81,3 +81,9 @@ class Main {
 }
 
 ```
+
+# Encapsulation demonstration
+
+```java
+
+```
